@@ -1,6 +1,6 @@
 {
   "name": "ngx-translate-all-pipe",
-  "version": "12.0.1",
+  "version": "12.0.2",
   "description": "ngx-translate extension to translate multiple values at once",
   "repository": {
     "type": "git",
